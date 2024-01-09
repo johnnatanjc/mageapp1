@@ -10,7 +10,7 @@ def load_data(*args, **kwargs):
     Template code for loading data from any source.
 
     Returns:
-        Anything (e.g. data frame, dictionary, array, int, str, etc.)
+        Anything (e.g. data frame, dictionary, array, int, str, etc.), hola cambiando
     """
     # Specify your data loading logic here
 
